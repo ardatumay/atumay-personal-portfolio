@@ -17,7 +17,7 @@ const greeting = {
     "A passionate computer scientist who loves solving real life problems by converting coffee into code. Skilled at full stack software development and machine learning."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1qtrlsXLsK4Dqd25XD0S94EvsVbBPwx8S/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
