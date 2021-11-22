@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c11bb9df1ba3e6013ced82c1c5bbccec",
+    "revision": "5e889edcfcb3868bae1e5a28d8fb5be0",
     "url": "/atumay-personal-portfolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/atumay-personal-portfolio/static/css/4.839f9e29.chunk.css"
   },
   {
-    "revision": "2704ecda30aa8ca4c78e",
+    "revision": "9121c9ab74de3964ba8a",
     "url": "/atumay-personal-portfolio/static/css/main.99ded1ed.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/atumay-personal-portfolio/static/js/4.011c95b8.chunk.js"
   },
   {
-    "revision": "2704ecda30aa8ca4c78e",
-    "url": "/atumay-personal-portfolio/static/js/main.84838098.chunk.js"
+    "revision": "9121c9ab74de3964ba8a",
+    "url": "/atumay-personal-portfolio/static/js/main.f1e5a14c.chunk.js"
   },
   {
     "revision": "c71196780dd44fa7be0d",

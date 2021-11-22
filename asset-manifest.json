@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/atumay-personal-portfolio/static/css/main.99ded1ed.chunk.css",
-    "main.js": "/atumay-personal-portfolio/static/js/main.84838098.chunk.js",
-    "main.js.map": "/atumay-personal-portfolio/static/js/main.84838098.chunk.js.map",
+    "main.js": "/atumay-personal-portfolio/static/js/main.f1e5a14c.chunk.js",
+    "main.js.map": "/atumay-personal-portfolio/static/js/main.f1e5a14c.chunk.js.map",
     "runtime-main.js": "/atumay-personal-portfolio/static/js/runtime-main.84ea7e49.js",
     "runtime-main.js.map": "/atumay-personal-portfolio/static/js/runtime-main.84ea7e49.js.map",
     "static/js/2.be2591db.chunk.js": "/atumay-personal-portfolio/static/js/2.be2591db.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.011c95b8.chunk.js": "/atumay-personal-portfolio/static/js/4.011c95b8.chunk.js",
     "static/js/4.011c95b8.chunk.js.map": "/atumay-personal-portfolio/static/js/4.011c95b8.chunk.js.map",
     "index.html": "/atumay-personal-portfolio/index.html",
-    "precache-manifest.b762b2d2db937e08e3c75cdd58f5eaac.js": "/atumay-personal-portfolio/precache-manifest.b762b2d2db937e08e3c75cdd58f5eaac.js",
+    "precache-manifest.f2eb7ef1dd5e97587ba00d55cbb8b007.js": "/atumay-personal-portfolio/precache-manifest.f2eb7ef1dd5e97587ba00d55cbb8b007.js",
     "service-worker.js": "/atumay-personal-portfolio/service-worker.js",
     "static/css/3.577476ef.chunk.css.map": "/atumay-personal-portfolio/static/css/3.577476ef.chunk.css.map",
     "static/css/4.839f9e29.chunk.css.map": "/atumay-personal-portfolio/static/css/4.839f9e29.chunk.css.map",
@@ -43,6 +43,6 @@
     "static/js/runtime-main.84ea7e49.js",
     "static/js/2.be2591db.chunk.js",
     "static/css/main.99ded1ed.chunk.css",
-    "static/js/main.84838098.chunk.js"
+    "static/js/main.f1e5a14c.chunk.js"
   ]
 }
